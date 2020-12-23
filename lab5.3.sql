@@ -1,0 +1,3 @@
+SELECT * FROM Пацієнт1
+UNION
+SELECT * FROM Пацієнт2
